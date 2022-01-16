@@ -1,6 +1,6 @@
 # Projekt chmura
 > Dokumentacja techniczna.
-> Link do strony [_here_](https://projektchmura.azurewebsites.net/).
+> Link do strony [_tutaj_](https://projektchmura.azurewebsites.net/).
 
 ## Spis treści
 * [Użyte technologie](#użyte-technologie)
@@ -27,5 +27,5 @@ odpowiedzialne za: edycję danego zadania, wyświtlenie detali dotyczących zada
 Przy tworzeniu aplikacji wzorowaliśmy się na oficjalnych poradnikach oficjalnej strony Microsoftu.
 
 ## Autorzy
--Łukasz Prawda.
--Mateusz Tomczyk.
+- Łukasz Prawda.
+- Mateusz Tomczyk.

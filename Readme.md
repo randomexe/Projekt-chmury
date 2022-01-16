@@ -9,7 +9,7 @@
 * [Autorzy](#autorzy)
 
 ## Użyte technologie
--Środowisko programistyczne = Microsoft Visual Studio.
+- Środowisko programistyczne = Microsoft Visual Studio.
 -Chmura obliczeniowa = Microsoft Azure.
 -Repozytorium git = Github.
 -Baza danych = Azure SQL.

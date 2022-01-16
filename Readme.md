@@ -9,13 +9,13 @@
 * [Autorzy](#autorzy)
 
 ## Użyte technologie
-- Środowisko programistyczne = Microsoft Visual Studio.
--Chmura obliczeniowa = Microsoft Azure.
--Repozytorium git = Github.
--Baza danych = Azure SQL.
--Zarządzanie bazą danych = Microsoft SQL Server Management.
--Zabezpieczenie transferu(https) = Protokół TLS.
--Zabezpieczenie przechowywancyh danych = Microsoft Defender.
+- Środowisko programistyczne = Microsoft Visual Studio
+- Chmura obliczeniowa = Microsoft Azure
+- Repozytorium git = Github
+- Baza danych = Azure SQL
+- Zarządzanie bazą danych = Microsoft SQL Server Management
+- Zabezpieczenie transferu(https) = Protokół TLS
+- Zabezpieczenie przechowywancyh danych = Microsoft Defender
 
 ## Instrukcja
 Po wejściu na stronę ukazują się nam zapisane w bazie danych lista zadań do wykonania z datą utworzenia.
